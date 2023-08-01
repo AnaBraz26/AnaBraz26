@@ -1,6 +1,6 @@
 # Welcome Homie 😁
 
-<img align="left" width="410" style="margin-left: 50px" src="https://media.tenor.com/Ui4Qn0HT61kAAAAC/chigiri-blue-lock.gif"/>
+<img align="left" width="440" style="margin-left: 50px" src="https://media.tenor.com/Ui4Qn0HT61kAAAAC/chigiri-blue-lock.gif"/>
 
 ```diff
 Presention:
