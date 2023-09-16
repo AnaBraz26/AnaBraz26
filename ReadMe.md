@@ -13,6 +13,6 @@ Presention:
 
 📜 Lattes: http://lattes.cnpq.br/0301582985663662
 
-📧 Contact: anacarolinebraz26@gmail.com
+📧 Contact: ana.caroline.6@Hotmail.com
 
 ```
