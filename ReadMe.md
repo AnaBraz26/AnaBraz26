@@ -5,9 +5,11 @@
 ```diff
 🙋🏾‍♀️ Hi, I’m Ana Caroline
 
-💻 Computer Science student in University of Brasília
+💻 Graduated in Computer Science
 
-🇧🇷  Brazil
+🤖 Master's student in Robotics
+
+🇧🇷 Brazil
 
 📜 Lattes: http://lattes.cnpq.br/0301582985663662
 
