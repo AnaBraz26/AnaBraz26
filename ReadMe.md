@@ -4,18 +4,12 @@
 
 ```diff
 🙋🏾‍♀️ Hi, I’m Ana Caroline
-
 💻 Graduated in Computer Science
-
-🤖 Master's student in Robotics
-
+🤖 Master's student in Compurer Science
 🇧🇷 Brazil
-
-📜 Lattes: http://lattes.cnpq.br/0301582985663662
-
 📜 LinkedIn: https://www.linkedin.com/in/anabraz26/
-
-📧 Contact: ana.caroline.6@Hotmail.com
+📜 Lattes: http://lattes.cnpq.br/0301582985663662
+📧 Contact: ana.caroline.6@hotmail.com
 
 ```
 -----------------------
