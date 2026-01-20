@@ -1,11 +1,11 @@
 # 💫 About Me:
-🙋🏾‍♀️ Hi, I'm Ana Caroline
-💻 Front-End Web Developer
-🎓 Graduated in Computer Science
-🤖 Master’s student in Computer Science
-🌐 Turning ideas into functional and elegant web interfaces
-🚀 Focused on continuous learning
-🇧🇷  From Brazi
+🙋🏾‍♀️ Hi, I'm Ana Caroline <br>
+💻 Front-End Web Developer <br>
+🎓 Graduated in Computer Science <br>
+🤖 Master’s student in Computer Science <br>
+🌐 Turning ideas into functional and elegant web interfaces <br>
+🚀 Focused on continuous learning <br>
+🇧🇷   From Brazil <br>
 
 
 ## 🌐 Socials:
@@ -21,8 +21,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=anabraz26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anabraz26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anabraz26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=anabraz26&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
